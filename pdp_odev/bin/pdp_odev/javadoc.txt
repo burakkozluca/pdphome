@@ -1,0 +1,849 @@
+Fonksiyon: public Motor() {
+/**
+* Varsayılan kurucu fonksiyon
+*/
+--------------------
+Fonksiyon: public Motor(String motorNo) {
+/**
+*
+* @param motorNo UUID olarak motor id
+* @return motor instance
+*/
+--------------------
+Fonksiyon: public void durdur() {
+/**
+* Motorun durdurulması //
+*/
+--------------------
+Fonksiyon: public Motor() {
+/**
+* Varsayılan kurucu fonksiyon
+*/
+--------------------
+Fonksiyon: public Motor(String motorNo) {
+/**
+*
+* @param motorNo UUID olarak motor id
+* @return motor instance
+*/
+--------------------
+Fonksiyon: public void durdur() {
+/**
+* Motorun durdurulması //
+*/
+--------------------
+Fonksiyon: public Motor() {
+/**
+* Varsayılan kurucu fonksiyon
+*/
+--------------------
+Fonksiyon: public Motor(String motorNo) {
+/**
+*
+* @param motorNo UUID olarak motor id
+* @return motor instance
+*/
+--------------------
+Fonksiyon: public void durdur() {
+/**
+* Motorun durdurulması //
+*/
+--------------------
+Fonksiyon: public Motor() {
+/**
+* Varsayılan kurucu fonksiyon
+*/
+--------------------
+Fonksiyon: public Motor(String motorNo) {
+/**
+*
+* @param motorNo UUID olarak motor id
+* @return motor instance
+*/
+--------------------
+Fonksiyon: public void durdur() {
+/**
+* Motorun durdurulması //
+*/
+--------------------
+Fonksiyon: public Motor() {
+/**
+* Varsayılan kurucu fonksiyon
+*/
+--------------------
+Fonksiyon: public Motor(String motorNo) {
+/**
+*
+* @param motorNo UUID olarak motor id
+* @return motor instance
+*/
+--------------------
+Fonksiyon: public void durdur() {
+/**
+* Motorun durdurulması //
+*/
+--------------------
+Fonksiyon: public Motor() {
+/**
+* Varsayılan kurucu fonksiyon
+*/
+--------------------
+Fonksiyon: public Motor(String motorNo) {
+/**
+*
+* @param motorNo UUID olarak motor id
+* @return motor instance
+*/
+--------------------
+Fonksiyon: public void durdur() {
+/**
+* Motorun durdurulması //
+*/
+--------------------
+Fonksiyon: public Motor() {
+/**
+* Varsayılan kurucu fonksiyon
+*/
+--------------------
+Fonksiyon: public Motor(String motorNo) {
+/**
+*
+* @param motorNo UUID olarak motor id
+* @return motor instance
+*/
+--------------------
+Fonksiyon: public void durdur() {
+/**
+* Motorun durdurulması //
+*/
+--------------------
+Fonksiyon: public Motor() {
+/**
+* Varsayılan kurucu fonksiyon
+*/
+--------------------
+Fonksiyon: public Motor(String motorNo) {
+/**
+*
+* @param motorNo UUID olarak motor id
+* @return motor instance
+*/
+--------------------
+Fonksiyon: public void durdur() {
+/**
+* Motorun durdurulması //
+*/
+--------------------
+Fonksiyon: public Motor() {
+/**
+* Varsayılan kurucu fonksiyon
+*/
+--------------------
+Fonksiyon: public Motor(String motorNo) {
+/**
+*
+* @param motorNo UUID olarak motor id
+* @return motor instance
+*/
+--------------------
+Fonksiyon: public void durdur() {
+/**
+* Motorun durdurulması //
+*/
+--------------------
+Fonksiyon: public Motor() {
+/**
+* Varsayılan kurucu fonksiyon
+*/
+--------------------
+Fonksiyon: public Motor(String motorNo) {
+/**
+*
+* @param motorNo UUID olarak motor id
+* @return motor instance
+*/
+--------------------
+Fonksiyon: public void durdur() {
+/**
+* Motorun durdurulması //
+*/
+--------------------
+Fonksiyon: public Motor() {
+/**
+* Varsayılan kurucu fonksiyon
+*/
+--------------------
+Fonksiyon: public Motor(String motorNo) {
+/**
+*
+* @param motorNo UUID olarak motor id
+* @return motor instance
+*/
+--------------------
+Fonksiyon: public void durdur() {
+/**
+* Motorun durdurulması //
+*/
+--------------------
+Fonksiyon: public Motor() {
+/**
+* Varsayılan kurucu fonksiyon
+*/
+--------------------
+Fonksiyon: public Motor(String motorNo) {
+/**
+*
+* @param motorNo UUID olarak motor id
+* @return motor instance
+*/
+--------------------
+Fonksiyon: public void durdur() {
+/**
+* Motorun durdurulması //
+*/
+--------------------
+Fonksiyon: public Motor() {
+/**
+* Varsayılan kurucu fonksiyon
+*/
+--------------------
+Fonksiyon: public Motor(String motorNo) {
+/**
+*
+* @param motorNo UUID olarak motor id
+* @return motor instance
+*/
+--------------------
+Fonksiyon: public void durdur() {
+/**
+* Motorun durdurulması //
+*/
+--------------------
+Fonksiyon: public Motor() {
+/**
+* Varsayılan kurucu fonksiyon
+*/
+--------------------
+Fonksiyon: public Motor(String motorNo) {
+/**
+*
+* @param motorNo UUID olarak motor id
+* @return motor instance
+*/
+--------------------
+Fonksiyon: public void durdur() {
+/**
+* Motorun durdurulması //
+*/
+--------------------
+Fonksiyon: public Motor() {
+/**
+* Varsayılan kurucu fonksiyon
+*/
+--------------------
+Fonksiyon: public Motor() {
+/**
+* Varsayılan kurucu fonksiyon
+*/
+--------------------
+Fonksiyon: public Motor(String motorNo) {
+/**
+*
+* @param motorNo UUID olarak motor id
+* @return motor instance
+*/
+--------------------
+Fonksiyon: public void durdur() {
+/**
+* Motorun durdurulması //
+*/
+--------------------
+Fonksiyon: public Motor() {
+/**
+* Varsayılan kurucu fonksiyon
+*/
+--------------------
+Fonksiyon: public Motor(String motorNo) {
+/**
+*
+* @param motorNo UUID olarak motor id
+* @return motor instance
+*/
+--------------------
+Fonksiyon: public void durdur() {
+/**
+* Motorun durdurulması //
+*/
+--------------------
+Fonksiyon: public Motor() {
+/**
+* Varsayılan kurucu fonksiyon
+*/
+--------------------
+Fonksiyon: public Motor(String motorNo) {
+/**
+*
+* @param motorNo UUID olarak motor id
+* @return motor instance
+*/
+--------------------
+Fonksiyon: public void durdur() {
+/**
+* Motorun durdurulması //
+*/
+--------------------
+Fonksiyon: public Motor() {
+/**
+* Varsayılan kurucu fonksiyon
+*/
+--------------------
+Fonksiyon: public Motor(String motorNo) {
+/**
+*
+* @param motorNo UUID olarak motor id
+* @return motor instance
+*/
+--------------------
+Fonksiyon: public void durdur() {
+/**
+* Motorun durdurulması //
+*/
+--------------------
+Fonksiyon: public Motor() {
+/**
+* Varsayılan kurucu fonksiyon
+*/
+--------------------
+Fonksiyon: public Motor(String motorNo) {
+/**
+*
+* @param motorNo UUID olarak motor id
+* @return motor instance
+*/
+--------------------
+Fonksiyon: public void durdur() {
+/**
+* Motorun durdurulması //
+*/
+--------------------
+Fonksiyon: public Motor() {
+/**
+* Varsayılan kurucu fonksiyon
+*/
+--------------------
+Fonksiyon: public Motor() {
+/**
+* Varsayılan kurucu fonksiyon
+*/
+--------------------
+Fonksiyon: public Motor() {
+/**
+* Varsayılan kurucu fonksiyon
+*/
+--------------------
+Fonksiyon: public Motor() {
+/**
+* Varsayılan kurucu fonksiyon
+*/
+--------------------
+Fonksiyon: public Motor(String motorNo) {
+/**
+*
+* @param motorNo UUID olarak motor id
+* @return motor instance
+*/
+--------------------
+Fonksiyon: public void durdur() {
+/**
+* Motorun durdurulması //
+*/
+--------------------
+Fonksiyon: public Motor() {
+/**
+* Varsayılan kurucu fonksiyon
+*/
+--------------------
+Fonksiyon: public Motor(String motorNo) {
+/**
+*
+* @param motorNo UUID olarak motor id
+* @return motor instance
+*/
+--------------------
+Fonksiyon: public void durdur() {
+/**
+* Motorun durdurulması //
+*/
+--------------------
+Fonksiyon: public Motor() {
+/**
+* Varsayılan kurucu fonksiyon
+*/
+--------------------
+Fonksiyon: public Motor() {
+/**
+* Varsayılan kurucu fonksiyon
+*/
+--------------------
+Fonksiyon: public Motor(String motorNo) {
+/**
+*
+* @param motorNo UUID olarak motor id
+* @return motor instance
+*/
+--------------------
+Fonksiyon: public void durdur() {
+/**
+* Motorun durdurulması //
+*/
+--------------------
+Fonksiyon: public Motor() {
+/**
+* Varsayılan kurucu fonksiyon
+*/
+--------------------
+Fonksiyon: public Motor(String motorNo) {
+/**
+*
+* @param motorNo UUID olarak motor id
+* @return motor instance
+*/
+--------------------
+Fonksiyon: public void durdur() {
+/**
+* Motorun durdurulması //
+*/
+--------------------
+Fonksiyon: public Motor() {
+/**
+* Varsayılan kurucu fonksiyon
+*/
+--------------------
+Fonksiyon: public Motor(String motorNo) {
+/**
+*
+* @param motorNo UUID olarak motor id
+* @return motor instance
+*/
+--------------------
+Fonksiyon: public void durdur() {
+/**
+* Motorun durdurulması //
+*/
+--------------------
+Fonksiyon: public Motor() {
+/**
+* Varsayılan kurucu fonksiyon
+*/
+--------------------
+Fonksiyon: public Motor(String motorNo) {
+/**
+*
+* @param motorNo UUID olarak motor id
+* @return motor instance
+*/
+--------------------
+Fonksiyon: public void durdur() {
+/**
+* Motorun durdurulması //
+*/
+--------------------
+Fonksiyon: public Motor() {
+/**
+* Varsayılan kurucu fonksiyon
+*/
+--------------------
+Fonksiyon: public Motor(String motorNo) {
+/**
+*
+* @param motorNo UUID olarak motor id
+* @return motor instance
+*/
+--------------------
+Fonksiyon: public void durdur() {
+/**
+* Motorun durdurulması //
+*/
+--------------------
+Fonksiyon: public Motor() {
+/**
+* Varsayılan kurucu fonksiyon
+*/
+--------------------
+Fonksiyon: public Motor(String motorNo) {
+/**
+*
+* @param motorNo UUID olarak motor id
+* @return motor instance
+*/
+--------------------
+Fonksiyon: public void durdur() {
+/**
+* Motorun durdurulması //
+*/
+--------------------
+Fonksiyon: public Motor() {
+/**
+* Varsayılan kurucu fonksiyon
+*/
+--------------------
+Fonksiyon: public Motor(String motorNo) {
+/**
+*
+* @param motorNo UUID olarak motor id
+* @return motor instance
+*/
+--------------------
+Fonksiyon: public void durdur() {
+/**
+* Motorun durdurulması //
+*/
+--------------------
+Fonksiyon: public Motor() {
+/**
+* Varsayılan kurucu fonksiyon
+*/
+--------------------
+Fonksiyon: public Motor() {
+/**
+* Varsayılan kurucu fonksiyon
+*/
+--------------------
+Fonksiyon: public Motor() {
+/**
+* Varsayılan kurucu fonksiyon
+*/
+--------------------
+Fonksiyon: public Motor() {
+/**
+* Varsayılan kurucu fonksiyon
+*/
+--------------------
+Fonksiyon: public Motor() {
+/**
+* Varsayılan kurucu fonksiyon
+*/
+--------------------
+Fonksiyon: public Motor(String motorNo) {
+/**
+*
+* @param motorNo UUID olarak motor id
+* @return motor instance
+*/
+--------------------
+Fonksiyon: public void durdur() {
+/**
+* Motorun durdurulması //
+*/
+--------------------
+Fonksiyon: public Motor() {
+/**
+* Varsayılan kurucu fonksiyon
+*/
+--------------------
+Fonksiyon: public Motor(String motorNo) {
+/**
+*
+* @param motorNo UUID olarak motor id
+* @return motor instance
+*/
+--------------------
+Fonksiyon: public void durdur() {
+/**
+* Motorun durdurulması //
+*/
+--------------------
+Fonksiyon: public Motor() {
+/**
+* Varsayılan kurucu fonksiyon
+*/
+--------------------
+Fonksiyon: public Motor() {
+/**
+* Varsayılan kurucu fonksiyon
+*/
+--------------------
+Fonksiyon: public Motor(String motorNo) {
+/**
+*
+* @param motorNo UUID olarak motor id
+* @return motor instance
+*/
+--------------------
+Fonksiyon: public void durdur() {
+/**
+* Motorun durdurulması //
+*/
+--------------------
+Fonksiyon: public Motor() {
+/**
+* Varsayılan kurucu fonksiyon
+*/
+--------------------
+Fonksiyon: public Motor(String motorNo) {
+/**
+*
+* @param motorNo UUID olarak motor id
+* @return motor instance
+*/
+--------------------
+Fonksiyon: public void durdur() {
+/**
+* Motorun durdurulması //
+*/
+--------------------
+Fonksiyon: public Motor() {
+/**
+* Varsayılan kurucu fonksiyon
+*/
+--------------------
+Fonksiyon: public Motor(String motorNo) {
+/**
+*
+* @param motorNo UUID olarak motor id
+* @return motor instance
+*/
+--------------------
+Fonksiyon: public void durdur() {
+/**
+* Motorun durdurulması //
+*/
+--------------------
+Fonksiyon: public Motor() {
+/**
+* Varsayılan kurucu fonksiyon
+*/
+--------------------
+Fonksiyon: public Motor(String motorNo) {
+/**
+*
+* @param motorNo UUID olarak motor id
+* @return motor instance
+*/
+--------------------
+Fonksiyon: public void durdur() {
+/**
+* Motorun durdurulması //
+*/
+--------------------
+Fonksiyon: public Motor() {
+/**
+* Varsayılan kurucu fonksiyon
+*/
+--------------------
+Fonksiyon: public Motor(String motorNo) {
+/**
+*
+* @param motorNo UUID olarak motor id
+* @return motor instance
+*/
+--------------------
+Fonksiyon: public void durdur() {
+/**
+* Motorun durdurulması //
+*/
+--------------------
+Fonksiyon: public Motor() {
+/**
+* Varsayılan kurucu fonksiyon
+*/
+--------------------
+Fonksiyon: public Motor(String motorNo) {
+/**
+*
+* @param motorNo UUID olarak motor id
+* @return motor instance
+*/
+--------------------
+Fonksiyon: public void durdur() {
+/**
+* Motorun durdurulması //
+*/
+--------------------
+Fonksiyon: public Motor() {
+/**
+* Varsayılan kurucu fonksiyon
+*/
+--------------------
+Fonksiyon: public Motor(String motorNo) {
+/**
+*
+* @param motorNo UUID olarak motor id
+* @return motor instance
+*/
+--------------------
+Fonksiyon: public void durdur() {
+/**
+* Motorun durdurulması //
+*/
+--------------------
+Fonksiyon: public Motor() {
+/**
+* Varsayılan kurucu fonksiyon
+*/
+--------------------
+Fonksiyon: public Motor(String motorNo) {
+/**
+*
+* @param motorNo UUID olarak motor id
+* @return motor instance
+*/
+--------------------
+Fonksiyon: public void durdur() {
+/**
+* Motorun durdurulması //
+*/
+--------------------
+Fonksiyon: public Motor() {
+/**
+* Varsayılan kurucu fonksiyon
+*/
+--------------------
+Fonksiyon: public Motor(String motorNo) {
+/**
+*
+* @param motorNo UUID olarak motor id
+* @return motor instance
+*/
+--------------------
+Fonksiyon: public void durdur() {
+/**
+* Motorun durdurulması //
+*/
+--------------------
+Fonksiyon: public Motor() {
+/**
+* Varsayılan kurucu fonksiyon
+*/
+--------------------
+Fonksiyon: public Motor(String motorNo) {
+/**
+*
+* @param motorNo UUID olarak motor id
+* @return motor instance
+*/
+--------------------
+Fonksiyon: public void durdur() {
+/**
+* Motorun durdurulması //
+*/
+--------------------
+Fonksiyon: public Motor() {
+/**
+* Varsayılan kurucu fonksiyon
+*/
+--------------------
+Fonksiyon: public Motor(String motorNo) {
+/**
+*
+* @param motorNo UUID olarak motor id
+* @return motor instance
+*/
+--------------------
+Fonksiyon: public void durdur() {
+/**
+* Motorun durdurulması //
+*/
+--------------------
+Fonksiyon: public Motor() {
+/**
+* Varsayılan kurucu fonksiyon
+*/
+--------------------
+Fonksiyon: public Motor(String motorNo) {
+/**
+*
+* @param motorNo UUID olarak motor id
+* @return motor instance
+*/
+--------------------
+Fonksiyon: public void durdur() {
+/**
+* Motorun durdurulması //
+*/
+--------------------
+Fonksiyon: public Motor() {
+/**
+* Varsayılan kurucu fonksiyon
+*/
+--------------------
+Fonksiyon: public Motor(String motorNo) {
+/**
+*
+* @param motorNo UUID olarak motor id
+* @return motor instance
+*/
+--------------------
+Fonksiyon: public void durdur() {
+/**
+* Motorun durdurulması //
+*/
+--------------------
+Fonksiyon: public Motor() {
+/**
+* Varsayılan kurucu fonksiyon
+*/
+--------------------
+Fonksiyon: public Motor(String motorNo) {
+/**
+*
+* @param motorNo UUID olarak motor id
+* @return motor instance
+*/
+--------------------
+Fonksiyon: public void durdur() {
+/**
+* Motorun durdurulması //
+*/
+--------------------
+Fonksiyon: public Motor() {
+/**
+* Varsayılan kurucu fonksiyon
+*/
+--------------------
+Fonksiyon: public Motor(String motorNo) {
+/**
+*
+* @param motorNo UUID olarak motor id
+* @return motor instance
+*/
+--------------------
+Fonksiyon: public void durdur() {
+/**
+* Motorun durdurulması //
+*/
+--------------------
+Fonksiyon: public Motor() {
+/**
+* Varsayılan kurucu fonksiyon
+*/
+--------------------
+Fonksiyon: public Motor(String motorNo) {
+/**
+*
+* @param motorNo UUID olarak motor id
+* @return motor instance
+*/
+--------------------
+Fonksiyon: public void durdur() {
+/**
+* Motorun durdurulması //
+*/
+--------------------
+Fonksiyon: public Motor() {
+/**
+* Varsayılan kurucu fonksiyon
+*/
+--------------------
+Fonksiyon: public Motor(String motorNo) {
+/**
+*
+* @param motorNo UUID olarak motor id
+* @return motor instance
+*/
+--------------------
+Fonksiyon: public void durdur() {
+/**
+* Motorun durdurulması //
+*/
+--------------------

@@ -1,0 +1,8 @@
+Fonksiyon: public Motor ()
+/* Başlangıçta false */calisiyor = false;
+--------------------
+Fonksiyon: public Motor (String motorNo)
+/*
+* Varolan bir motor no ile oluşturuluyor.
+*/
+--------------------

@@ -1,0 +1,72 @@
+Fonksiyon: public Motor (String motorNo)
+// false yapılıyor
+--------------------
+Fonksiyon: public String  getMotorNo()
+// motor no getir
+--------------------
+Fonksiyon: public String  toString()
+// durum belirlenmesi //
+--------------------
+Fonksiyon: public Motor (String motorNo)
+// false yapılıyor
+--------------------
+Fonksiyon: public String getMotorNo()
+// motor no getir
+--------------------
+Fonksiyon: public String toString()
+// durum belirlenmesi //
+--------------------
+Fonksiyon: public Motor (String motorNo)
+// false yapılıyor
+--------------------
+Fonksiyon: public String getMotorNo()
+// motor no getir
+--------------------
+Fonksiyon: public String toString()
+// durum belirlenmesi //
+--------------------
+Fonksiyon: public Motor (String motorNo)
+// false yapılıyor
+--------------------
+Fonksiyon: public String getMotorNo()
+// motor no getir
+--------------------
+Fonksiyon: public String toString()
+// durum belirlenmesi //
+--------------------
+Fonksiyon: public Motor (String motorNo)
+// false yapılıyor
+--------------------
+Fonksiyon: public String getMotorNo()
+// motor no getir
+--------------------
+Fonksiyon: public String toString()
+// durum belirlenmesi //
+--------------------
+Fonksiyon: public Motor (String motorNo)
+// false yapılıyor
+--------------------
+Fonksiyon: public String getMotorNo()
+// motor no getir
+--------------------
+Fonksiyon: public String toString()
+// durum belirlenmesi //
+--------------------
+Fonksiyon: public Motor (String motorNo)
+// false yapılıyor
+--------------------
+Fonksiyon: public String getMotorNo()
+// motor no getir
+--------------------
+Fonksiyon: public String toString()
+// durum belirlenmesi //
+--------------------
+Fonksiyon: public Motor (String motorNo)
+// false yapılıyor
+--------------------
+Fonksiyon: public String getMotorNo()
+// motor no getir
+--------------------
+Fonksiyon: public String toString()
+// durum belirlenmesi //
+--------------------
