@@ -1,7 +1,55 @@
-Fonksiyon: public Motor ()
-/* Başlangıçta false */calisiyor = false;
+Fonksiyon: Motor
+/* Başlangıçta false */
 --------------------
-Fonksiyon: public Motor (String motorNo)
+Fonksiyon: Motor
+/*
+* Varolan bir motor no ile oluşturuluyor.
+*/
+--------------------
+Fonksiyon: Motor
+/* Başlangıçta false */
+--------------------
+Fonksiyon: Motor
+/*
+* Varolan bir motor no ile oluşturuluyor.
+*/
+--------------------
+Fonksiyon: Motor
+/* Başlangıçta false */
+--------------------
+Fonksiyon: Motor
+/*
+* Varolan bir motor no ile oluşturuluyor.
+*/
+--------------------
+Fonksiyon: Motor
+/* Başlangıçta false */
+--------------------
+Fonksiyon: Motor
+/*
+* Varolan bir motor no ile oluşturuluyor.
+*/
+--------------------
+Fonksiyon: Motor
+/* Başlangıçta false */
+--------------------
+Fonksiyon: Motor
+/*
+* Varolan bir motor no ile oluşturuluyor.
+*/
+--------------------
+Fonksiyon: Motor
+/* Başlangıçta false */
+--------------------
+Fonksiyon: Motor
+/*
+* Varolan bir motor no ile oluşturuluyor.
+*/
+--------------------
+Fonksiyon: Motor
+/* Başlangıçta false */
+--------------------
+Fonksiyon: Motor
 /*
 * Varolan bir motor no ile oluşturuluyor.
 */

@@ -1,16 +1,123 @@
-Fonksiyon: public Motor() {
+Fonksiyon: null
 /**
 * Varsayılan kurucu fonksiyon
 */
 --------------------
-Fonksiyon: public Motor(String motorNo) {
+Fonksiyon: null
 /**
 *
 * @param motorNo UUID olarak motor id
 * @return motor instance
 */
 --------------------
-Fonksiyon: public void durdur() {
+Fonksiyon: null
+/**
+* Motorun durdurulması //
+*/
+--------------------
+Fonksiyon: null
+/**
+* Varsayılan kurucu fonksiyon
+*/
+--------------------
+Fonksiyon: null
+/**
+* Varsayılan kurucu fonksiyon
+*/
+--------------------
+Fonksiyon: null
+/**
+*
+* @param motorNo UUID olarak motor id
+* @return motor instance
+*/
+--------------------
+Fonksiyon: null
+/**
+* Motorun durdurulması //
+*/
+--------------------
+Fonksiyon: null
+/**
+* Varsayılan kurucu fonksiyon
+*/
+--------------------
+Fonksiyon: null
+/**
+*
+* @param motorNo UUID olarak motor id
+* @return motor instance
+*/
+--------------------
+Fonksiyon: null
+/**
+* Motorun durdurulması //
+*/
+--------------------
+Fonksiyon: null
+/**
+* Varsayılan kurucu fonksiyon
+*/
+--------------------
+Fonksiyon: null
+/**
+*
+* @param motorNo UUID olarak motor id
+* @return motor instance
+*/
+--------------------
+Fonksiyon: null
+/**
+* Motorun durdurulması //
+*/
+--------------------
+Fonksiyon: null
+/**
+* Varsayılan kurucu fonksiyon
+*/
+--------------------
+Fonksiyon: null
+/**
+*
+* @param motorNo UUID olarak motor id
+* @return motor instance
+*/
+--------------------
+Fonksiyon: null
+/**
+* Motorun durdurulması //
+*/
+--------------------
+Fonksiyon: null
+/**
+* Varsayılan kurucu fonksiyon
+*/
+--------------------
+Fonksiyon: null
+/**
+*
+* @param motorNo UUID olarak motor id
+* @return motor instance
+*/
+--------------------
+Fonksiyon: null
+/**
+* Motorun durdurulması //
+*/
+--------------------
+Fonksiyon: null
+/**
+* Varsayılan kurucu fonksiyon
+*/
+--------------------
+Fonksiyon: null
+/**
+*
+* @param motorNo UUID olarak motor id
+* @return motor instance
+*/
+--------------------
+Fonksiyon: null
 /**
 * Motorun durdurulması //
 */

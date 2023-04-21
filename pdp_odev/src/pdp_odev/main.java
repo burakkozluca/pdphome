@@ -16,10 +16,14 @@ public class main {
 		
 		Pattern class_ = Pattern.compile("\\b((public|private)\\s+)(class)\\s*(\\w+)"); 
 		Pattern fonksiyon = Pattern.compile("\\b((public|private|protected|static|final|abstract)\\s+)*([\\w]+\\s+)\\s*(\\w+)\\s*\\((.*?)\\)\\s*(?:throws\\s+[\\w.]+(?:\\s*,\\s*[\\w.]+)*)?\\s*[\\{;]?");
-        
-		try 
+		
+		if (args.length != 1) {
+            System.err.println("Hatali Arguman");
+            System.exit(1);
+        }
+		try
 	    {
-	    	String fileline= "C:\\Users\\burak\\pdp\\pdp_odev\\src\\pdp_odev\\deneme.java";
+	    	String fileline= args[0];
 			String satir;
 	    	FileReader fileReader = new FileReader(fileline);
 			BufferedReader buffer=new BufferedReader(fileReader);
@@ -50,26 +54,7 @@ public class main {
 					javadoc_array.append("\n");
 					javadoc_sayisi++;
 				}
-				if(satir.contains("*") && javadoc && !satir.contains("/**")) 
-				{
-					javadoc_array.append(satir.trim());
-                    javadoc_array.append("\n");
-				}
-				buffer.mark(10000); // mark() yöntemi, tampon bellekteki konumu kaydeder
-				String nextline = buffer.readLine();
 				
-				//System.out.println(satir);
-				if(satir.contains("*/") && javadoc && nextline.contains("public")) 
-				{
-					javadoc = false;
-					FileWriter writer = new FileWriter(file, true);
-					writer.write("Fonksiyon: "+ nextline + "\n");
-                    writer.write(javadoc_array.toString());
-                    writer.write("--------------------\n");
-                    writer.close();
-                    //javadocComment = null;
-				}
-				buffer.reset();
 				if(fonksiyon_mac.matches()) 
 				{
 					function = true;
@@ -89,17 +74,31 @@ public class main {
 						fonksiyon_array.append(functionName + functionName1 + " (" + constructor +")");
 					
 					fonksiyon_ismi.append(functionName1);
-					//bunu fonksiyon dışına çıkar fonksiyonu arraye at boolean 1 olsun fonksiyon bittiyse arrayi sil boolean false olsun.  
-                    
-                    //System.out.println("Function found: "+ modifiers+ " " + returnType + " " + functionName);
-					//System.out.println(fonksiyon_array.toString());
                     
 				}
+				if(satir.contains("*") && javadoc && !satir.contains("/**")) 
+				{
+					javadoc_array.append(satir.trim());
+                    javadoc_array.append("\n");
+				}
+				buffer.mark(10000); // mark() yöntemiyle bellekteki konumu kaydettim.
+				String nextline = buffer.readLine();
+				
+				if(satir.contains("*/") && javadoc && (nextline.contains("public") || nextline.contains("private"))) 
+				{
+					javadoc = false;
+					FileWriter writer = new FileWriter(file, true);
+					writer.write("Fonksiyon: "+ fonksiyon_ismi + "\n");
+                    writer.write(javadoc_array.toString());
+                    writer.write("--------------------\n");
+                    writer.close();
+				}
+				buffer.reset(); // mark() yöntemiyle kaydettiğim bellekteki konuma geri döndüm.
 				if(function && satir.contains("//")) 
 				{
 					teksatir_sayisi++;
 					FileWriter writer1 = new FileWriter(file1, true);
-					writer1.write("Fonksiyon: "+ fonksiyon_array + "\n");
+					writer1.write("Fonksiyon: "+ fonksiyon_ismi + "\n");
 					writer1.write(satir.substring(satir.indexOf("//")) + "\n");
                     writer1.write("--------------------\n");				
 					writer1.close();
@@ -107,9 +106,18 @@ public class main {
 				if(function && satir.contains("/*") && !satir.contains("/**")) 
 				{
 					yorum = true;
-					comment_array = new StringBuilder(satir.trim());
+					int index = 0;
+					
+					index = satir.indexOf("*/");
+					if(index  == -1)
+						comment_array = new StringBuilder(satir.trim());
+					else 
+					{
+						comment_array = new StringBuilder();
+						comment_array.append(satir.substring(0, index + 2));
+					}
 					comment_array.append("\n");
-					coksatir_sayisi++;
+					coksatir_sayisi++;  
 				}
 				if(function && satir.contains("*") && yorum && !satir.contains("/*")) 
 				{
@@ -120,14 +128,11 @@ public class main {
 				{
 					yorum = false;
 					FileWriter writer2 = new FileWriter(file2, true);
-					writer2.write("Fonksiyon: "+ fonksiyon_array + "\n");
+					writer2.write("Fonksiyon: "+ fonksiyon_ismi + "\n");
                     writer2.write(comment_array.toString());
                     writer2.write("--------------------\n");
                     writer2.close();
 				}
-				//tekli yorum satiri bulma
-				// // işaretinden sonra string var mı kontrolü yap.
-				//sadece satir başındaki yorumları okuyor. satir souna doğru olan yorum satirini da okuttur.
 				if(class_mac.find()) 
 				{
 					String functionName = class_mac.group(4);
