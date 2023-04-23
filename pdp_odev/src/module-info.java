@@ -2,8 +2,8 @@
  * 
  */
 /**
- * @author burak
+ * @author burakkozluca
  *
  */
-module pdp_odev {
+module Java_odev {
 }
